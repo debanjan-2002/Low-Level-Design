@@ -3,4 +3,4 @@
 ### Behavioral Patterns
 
 1. Strategy Pattern
-2. Observable Pattern (Notification System)
+2. Observer Pattern (Notification System)
